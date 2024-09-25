@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj": {}
+    "/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/QBank/QBankApi/QBankApi.csproj": {}
   },
   "projects": {
-    "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj": {
+    "/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/QBank/QBankApi/QBankApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj",
+        "projectUniqueName": "/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/QBank/QBankApi/QBankApi.csproj",
         "projectName": "QBankApi",
-        "projectPath": "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj",
-        "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-        "outputPath": "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\obj\\",
+        "projectPath": "/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/QBank/QBankApi/QBankApi.csproj",
+        "packagesPath": "/Users/sergiopavanelli/.nuget/packages/",
+        "outputPath": "/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/QBank/QBankApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pavan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/sergiopavanelli/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
