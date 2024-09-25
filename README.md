@@ -9,7 +9,7 @@ O projeto **QBank** tem como objetivo desenvolver uma aplicação bancária mode
 - [André Luiz da Silva Júnior](https://github.com/Andre01Junior)
 - [Klaus Boger](https://github.com/Klausbgr)
 - [Humberto Belluco](https://github.com/HbMachado)
-- Matheus Mendes
+- [Matheus Mendes] (https://github.com/Mateus0062)
 
 ## Tecnologias Utilizadas
 
