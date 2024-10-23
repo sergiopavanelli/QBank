@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj": {}
+    "E:\\00 VSCode\\UniBH_aulas\\QBank\\MeuProjetoAPI\\MeuProjetoAPI.csproj": {}
   },
   "projects": {
-    "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj": {
+    "E:\\00 VSCode\\UniBH_aulas\\QBank\\MeuProjetoAPI\\MeuProjetoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj",
-        "projectName": "QBankApi",
-        "projectPath": "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\QBankApi.csproj",
+        "projectUniqueName": "E:\\00 VSCode\\UniBH_aulas\\QBank\\MeuProjetoAPI\\MeuProjetoAPI.csproj",
+        "projectName": "MeuProjetoAPI",
+        "projectPath": "E:\\00 VSCode\\UniBH_aulas\\QBank\\MeuProjetoAPI\\MeuProjetoAPI.csproj",
         "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-        "outputPath": "E:\\00 VSCode\\UniBH_aulas\\QBank\\QBankApi\\obj\\",
+        "outputPath": "E:\\00 VSCode\\UniBH_aulas\\QBank\\MeuProjetoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
