@@ -19,7 +19,7 @@ A aplicação oferece funcionalidades essenciais como criação e gerenciamento 
 - ASP.NET Core (C#)
 - Entity Framework Core
 - SQL Server
-- HTML/CSS/JavaScript (para a interface web)
+- Angular (para a interface web)
 
 ## Arquitetura Utilizada: Hexagonal
 
