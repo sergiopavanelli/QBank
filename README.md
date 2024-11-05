@@ -16,7 +16,7 @@ A aplicação oferece funcionalidades essenciais como criação e gerenciamento 
 - **ASP.NET Core (C#)**
 - **Entity Framework Core**
 - **SQL Server**
-- **HTML/CSS/JavaScript** (para a interface web)
+- **Angular** (para a interface web)
 
 ## Arquitetura Utilizada: Hexagonal
 A arquitetura hexagonal é uma maneira de organizar software que separa o que acontece dentro da aplicação do que acontece fora, tornando tudo mais flexível e fácil de gerenciar. É como projetar uma casa que pode ser facilmente adaptada e reformada.
