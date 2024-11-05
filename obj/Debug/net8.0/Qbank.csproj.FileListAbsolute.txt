@@ -284,3 +284,5 @@ C:\Users\mateu\Qbank-API\obj\Debug\net8.0\refint\Qbank.dll
 C:\Users\mateu\Qbank-API\obj\Debug\net8.0\Qbank.pdb
 C:\Users\mateu\Qbank-API\obj\Debug\net8.0\Qbank.genruntimeconfig.cache
 C:\Users\mateu\Qbank-API\obj\Debug\net8.0\ref\Qbank.dll
+C:\Users\mateu\Qbank-API\obj\Debug\net8.0\Qbank.sourcelink.json
+C:\Users\mateu\Qbank-API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

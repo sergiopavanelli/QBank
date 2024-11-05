@@ -2,11 +2,18 @@ using Microsoft.AspNetCore.Mvc;
 using Qbank.Data;
 using Qbank.Models;
 using Microsoft.EntityFrameworkCore;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using Microsoft.Extensions.Configuration;
+using System;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Qbank.Controllers 
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
 
     public class AccountController : ControllerBase 
     {
