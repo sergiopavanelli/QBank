@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\Qbank-API\\Qbank.csproj": {}
+    "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\qbank\\Qbank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\Qbank-API\\Qbank.csproj": {
+    "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\qbank\\Qbank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\Qbank-API\\Qbank.csproj",
+        "projectUniqueName": "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\qbank\\Qbank.csproj",
         "projectName": "Qbank",
-        "projectPath": "C:\\Users\\mateu\\Qbank-API\\Qbank.csproj",
-        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\Qbank-API\\obj\\",
+        "projectPath": "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\qbank\\Qbank.csproj",
+        "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
+        "outputPath": "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\qbank\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\pavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
