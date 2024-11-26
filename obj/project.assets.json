@@ -4209,19 +4209,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pavan\\.nuget\\packages\\": {}
+    "C:\\Users\\Mateus.Mattos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\QBank\\Qbank.csproj",
+      "projectUniqueName": "C:\\Users\\Mateus.Mattos\\QBank\\Qbank.csproj",
       "projectName": "Qbank",
-      "projectPath": "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\QBank\\Qbank.csproj",
-      "packagesPath": "C:\\Users\\pavan\\.nuget\\packages\\",
-      "outputPath": "E:\\00 VSCode\\UniBH_trabalhos\\QbankApi\\QBank\\obj\\",
+      "projectPath": "C:\\Users\\Mateus.Mattos\\QBank\\Qbank.csproj",
+      "packagesPath": "C:\\Users\\Mateus.Mattos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mateus.Mattos\\QBank\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\pavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mateus.Mattos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
